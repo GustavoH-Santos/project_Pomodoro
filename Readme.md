@@ -1,4 +1,4 @@
-Aplicativo (.py) para auxiliar no gerenciamento de tempo.
+Aplicativo (.py) para auxiliar no gerenciamento de tempo.<p>
 Tem seu funcionamento baseado na técnica pomodoro. Desenvolvida no final dos anos 80, a técnica consiste na divisao da execução das atividades em intervalos pré determinados separados por pausas, também pré determinadas, a fim de aumentar a produtividade nas atividades(tarefas)
-Obs.:
+<p>Obs.:<p>
 O aplicativo possui uma interface gráfica (tkinter)

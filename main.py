@@ -1,4 +1,4 @@
-    from tkinter import *
+from tkinter import *
 import random
 import os
 import math   #utilizado para tratar exibição dos minutos e segundos
